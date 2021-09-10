@@ -1,7 +1,10 @@
 # Spam Mail Detector
 Spam/non-Spam Detector with using machine learning and Naive Bayes Classifier.
 
-# Dataset
+## ScreenShots
+![github small](https://github.com/eneeesyk/Spam-Mail-Detector-/blob/main/first.JPG)
+![github small](https://github.com/eneeesyk/Spam-Mail-Detector-/blob/main/second.JPG)
+## Dataset
 https://spamassassin.apache.org/old/publiccorpus/
 
 ## Requests 
