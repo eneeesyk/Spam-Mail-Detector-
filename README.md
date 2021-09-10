@@ -1,5 +1,5 @@
 # Spam Mail Detector
-Spam/non-Spam Detector with using machine learning and Naive Bayes Classifier.
+Spam/non-Spam Detector with using machine learning and Naive Bayes Classifier. I created a dictionary by separating each word from email to its roots. And I trained my Naive Bayes Classifier model using this dictionary. The region below the decision boundry says the word is not spam, and the region above it says it is spam. Recall, Precision, Accuracy and F1 scores are inside the notebook you can check it out.
 
 ## ScreenShots
 ![github small](https://github.com/eneeesyk/Spam-Mail-Detector-/blob/main/first.JPG)
